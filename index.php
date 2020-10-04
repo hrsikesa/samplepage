@@ -1,5 +1,7 @@
 <?php
 
-print "Hello from PHP Code"
+print "Hello from PHP Code";
+print "Sample page of PHP"
+  
 
 ?>
